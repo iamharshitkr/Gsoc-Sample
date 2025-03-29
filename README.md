@@ -2,10 +2,10 @@ Java to Dart JNIgen Translator
 This Dart script automates the conversion of Java/Kotlin code (e.g., CameraX API usage) into equivalent Dart JNIgen-compatible code using Google's Gemini AI API.
 
 Features
-✅ Fetches a Java snippet (e.g., CameraX take-photo example)
-✅ Sends it to the Gemini API for JNIgen-compatible Dart translation
-✅ Saves the generated Dart JNIgen code to a file
-✅ Runs dart analyze to check for correctness
+✅ Fetches a Java snippet (e.g., CameraX take-photo example)/n
+✅ Sends it to the Gemini API for JNIgen-compatible Dart translation/n
+✅ Saves the generated Dart JNIgen code to a file/n
+✅ Runs dart analyze to check for correctness/n
 
 Installation
 1. Clone the Repository
