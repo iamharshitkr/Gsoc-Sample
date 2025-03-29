@@ -24,11 +24,11 @@ Usage
 Run the script:
 dart generate_dart_camera.dart
 
-This will:
-✅ Send a Java snippet to Gemini
-✅ Generate JNIgen-compatible Dart code
-✅ Save it to generated_dart_code.dart
-✅ Analyze the Dart code for errors
+This will:<br>
+✅ Send a Java snippet to Gemini<br>
+✅ Generate JNIgen-compatible Dart code<br>
+✅ Save it to generated_dart_code.dart<br>
+✅ Analyze the Dart code for errors<br>
 
 Example Output
 dart
